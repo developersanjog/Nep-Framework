@@ -1,0 +1,8 @@
+Two compulsary parameters in router are:
+1) method_id
+2) passkey
+
+the parameters can be sent either through get or post requests .
+method_id is to identify the controller where as passkey is to validate .
+
+you can change your passkey from Router/passkey.php  .
