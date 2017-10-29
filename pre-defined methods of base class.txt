@@ -1,0 +1,6 @@
+It's all present in base class:
+
+mail_by_gmail function.
+With parameters.
+
+$obj->mail_by_gmail(sender_gmail_id,sender_gmail_password,reciever_email,email_body,email_subject-optional,alt_body-optional);

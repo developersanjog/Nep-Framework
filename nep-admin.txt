@@ -1,0 +1,5 @@
+the default username and password of nep admin is
+username: root
+password: root
+
+you can change the id password from file nep-admin/index.php

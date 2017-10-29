@@ -1,0 +1,7 @@
+1) Conrtollers are created from nep-admin.
+2) They are accessed through the Router by their method_id .
+3) They are placed inside controller folder.
+
+Features:
+1) Every controller has it's own unique.
+2) The information of any controller can be found in the nep-admin.
