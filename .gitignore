@@ -1,0 +1,10 @@
+# Composer
+vendor
+
+# IDE
+.nbprojects
+.idea
+.vscode
+
+# PHPUnit
+phpunit.xml
